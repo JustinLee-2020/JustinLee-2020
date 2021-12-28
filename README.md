@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JustinLee-2020
-- 👀 I’m interested in movie and game
-- 🌱 I’m currently learning NAS knowledge
+- 👀 I’m interested in NAS knowledge
+- 🌱 I’m currently learning UNRAID
 - 📫 You can reach me by robocop_2005@163.com 
 
 <!---
